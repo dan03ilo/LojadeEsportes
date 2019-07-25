@@ -71,10 +71,11 @@ namespace Produtos.classes
                  ex.Range("H2").Value = fornecedor.nomefantasia;
                  ex.Range("I2").Value = fornecedor.CNPJ;
 
-                ex.ActiveWorkbook.SaveAs(@"c:\Danilo\clientes.xlsx");
-                ex.Quit();
+                ex.ActiveWorkbook.SaveAs(@"c:\Danilo\produtos.xlsx");
+                ex.Quit(); 
            }
-           return "Produto cadastrado!";
+            return "Produto cadastrado!";
+
         }     
         public string[,] listar()
          {
@@ -83,12 +84,12 @@ namespace Produtos.classes
 
             Application excel = new Application();
             excel.Visible = true;
-            excel.Workbooks.Open(@"c:\Danilo\clientes.xlsx");      
+            excel.Workbooks.Open(@"c:\Danilo\produtos.xlsx");      
             for(int lin = 1; lin <= 10; lin++){
               for(int col = 1; col <=10; col++){
                   dados[lin-1,col-1] = excel.Cells[lin,col].Text.ToString();
 
-              } 
+              }
             } 
                 excel.Quit();
             return dados;
