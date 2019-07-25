@@ -1,0 +1,11 @@
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\bin\Debug\netcoreapp2.1\Produtos.deps.json
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\bin\Debug\netcoreapp2.1\Produtos.runtimeconfig.json
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\bin\Debug\netcoreapp2.1\Produtos.runtimeconfig.dev.json
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\bin\Debug\netcoreapp2.1\Produtos.dll
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\bin\Debug\netcoreapp2.1\Produtos.pdb
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\obj\Debug\netcoreapp2.1\Produtos.csprojAssemblyReference.cache
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\obj\Debug\netcoreapp2.1\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\obj\Debug\netcoreapp2.1\Produtos.AssemblyInfoInputs.cache
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\obj\Debug\netcoreapp2.1\Produtos.AssemblyInfo.cs
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\obj\Debug\netcoreapp2.1\Produtos.dll
+C:\Users\danilo.rloliveira\CSharp\POO\Produtos\obj\Debug\netcoreapp2.1\Produtos.pdb
